@@ -2,7 +2,7 @@
   "parser": "babel-eslint",
   "extends": ["airbnb"],
   "rules": {
-    "max-len": [1, 80, 2, { "ignoreComments": true }],
+    "max-len": [1, 100, 2, { "ignoreComments": true }],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
   },
   "env": {
